@@ -19,7 +19,6 @@
         <version>2.0.3.RELEASE</version>
         <relativePath/>
     </parent>
-
     <properties>
         <dao.version>${project.version}</dao.version>
         <service.version>${project.version}</service.version>
